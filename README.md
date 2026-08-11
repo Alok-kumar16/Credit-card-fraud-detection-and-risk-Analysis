@@ -27,6 +27,7 @@ To understand where, when, and under which conditions fraud is more likely to oc
 
 After the working on this project,
 My Insights
+
 Overall fraud rate was 0.93%, with 101 fraudulent transactions out of 10,908.
 Shopping_net recorded the highest fraud rate among merchant categories at approximately 2.92%.
 The 18–25 age group had the highest fraud rate at approximately 3.08%.
@@ -37,6 +38,7 @@ PIN authentication had the highest fraud rate among authentication methods at ap
 Saturday had the highest fraud rate among the days of the week at approximately 1.49%.
 
 Recommendations and Suggestions for improvement
+
 Increase monitoring of late-night transactions, especially between 22:00 and 23:00.
 Apply additional verification to online shopping transactions, particularly shopping_net transactions.
 Strengthen monitoring of POS and ATM transactions.
