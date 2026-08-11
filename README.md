@@ -51,4 +51,4 @@ Dashboard links
 Dashboard 1- credit card fraud overview dashboard-https://public.tableau.com/views/CreditcardFraudOverviewDashboard/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 Dashboard 2- Credit card fraud pattern dashboard-https://public.tableau.com/views/CreditcardFraudPatternAnalysis/Dashboard2?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 Dashboard 3- Ml fraud risk analysis dashboard-https://public.tableau.com/views/MLFraudRiskAnalysis/Dashboard3?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-NOTE - PLEASE AFTER OPENING THE DASHBOARD LINK ,VIEW THE DASHBOARD IN FULL SCREEN FOR BETTER VIEW(FULL SCREEN ICON WILL BE ON THE BOTTOM LEFT OF THE SCREEN AFTER CLICKING THE LINK) 
+NOTE - PLEASE AFTER OPENING THE DASHBOARD LINK ,VIEW THE DASHBOARD IN FULL SCREEN FOR BETTER VIEW(FULL SCREEN ICON WILL BE ON THE BOTTOM RIGHT OF THE SCREEN AFTER CLICKING THE LINK) 
